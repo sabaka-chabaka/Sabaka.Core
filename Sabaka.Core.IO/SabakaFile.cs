@@ -10,7 +10,7 @@ public class SabakaFile
     [SabakaExport("create")]
     public void CreateFile(string path)
     {
-        File.Create(path);
+        File.Create(path).Dispose();
     }
     
     [SabakaExport("remove")]
