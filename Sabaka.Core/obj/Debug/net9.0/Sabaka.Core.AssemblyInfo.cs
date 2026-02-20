@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sabaka.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61768b2c6f24db847845ab83187929a64026298e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b298ef11f7523a208136c7ef9956b26e07efc2e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sabaka.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sabaka.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
