@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabaka.Core.IO", "Sabaka.Core.IO\Sabaka.Core.IO.csproj", "{B59E13DE-ED30-4745-B845-CDC9A700586A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabaka.Core", "Sabaka.Core\Sabaka.Core.csproj", "{03288B85-4229-4C48-8023-314962C95E5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B59E13DE-ED30-4745-B845-CDC9A700586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B59E13DE-ED30-4745-B845-CDC9A700586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B59E13DE-ED30-4745-B845-CDC9A700586A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03288B85-4229-4C48-8023-314962C95E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03288B85-4229-4C48-8023-314962C95E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03288B85-4229-4C48-8023-314962C95E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03288B85-4229-4C48-8023-314962C95E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
